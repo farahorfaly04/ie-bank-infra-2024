@@ -6,10 +6,10 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "forfaly-dbsrv-uat"
+            "value": "forfaly1-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "forfaly-db-uat"
+            "value": "forfaly1-db-uat"
         },
         "appServicePlanName": {
             "value": "forfaly-asp-uat"
