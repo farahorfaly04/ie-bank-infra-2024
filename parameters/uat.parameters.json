@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "forfaly-dbsrv-dev"
+            "value": "forfaly-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "forfaly-db-dev"
+            "value": "forfaly-db-uat"
         },
         "appServicePlanName": {
-            "value": "forfaly-asp-dev"
+            "value": "forfaly-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "forfaly-be-dev"
+            "value": "forfaly-be-uat"
         },
         "appServiceAppName": {
-            "value": "forfaly-fe-dev"
+            "value": "forfaly-fe-uat"
         },
         "location": {
             "value": "North Europe"
